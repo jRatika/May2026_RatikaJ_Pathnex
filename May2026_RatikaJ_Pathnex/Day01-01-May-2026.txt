@@ -1,0 +1,2 @@
+Handson practice of git command using Ec2
+will continue practicing 
